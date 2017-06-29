@@ -1,2 +1,2 @@
-# testing_sockek
-aplicación del socket.io
+# testing_socket
+aplicación del socket.io para HuverApp
